@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <div class="main">
     <slot/>
   </div>
 </template>
@@ -7,10 +7,9 @@
 
 
 <style>
-body {
+body, html {
   font-size: 15px;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   background: #222;
   color: #fff;
   font-family: Nunito,Helvetica,Arial,sans-serif;
@@ -19,8 +18,7 @@ body {
   width: 100%;
   height: 100%;
 }
-
-.layout {
+.main {
   width: 100%;
   height: 100%;
   display: flex;
@@ -28,5 +26,4 @@ body {
   align-items: center;
   justify-content: center;
 }
-
 </style>

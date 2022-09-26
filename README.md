@@ -1,3 +1,7 @@
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue)](https://skillicons.dev)
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.

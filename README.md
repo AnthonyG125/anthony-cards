@@ -1,18 +1,13 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vue, git)](https://skillicons.dev)
 
-# Default starter for Gridsome
+# TP Landing Page/Carte de visite
 
-This is the project you get when you run `gridsome create new-project`.
+Projet noté du cours d'application client riche.
 
-### 1. Install Gridsome CLI tool if you don't have
+### Accès au site
 
-`npm install --global @gridsome/cli`
+(https://grasanthony.netlify.app/)
 
-### 2. Create a Gridsome project
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌

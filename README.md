@@ -10,4 +10,7 @@ Projet noté du cours d'application client riche.
 
 (https://grasanthony.netlify.app/)
 
+## Auteurs
+* **Anthony GRAS** _alias_ [@AnthonyG125](https://github.com/AnthonyG125)
+
 
